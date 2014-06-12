@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: ../FastAnimationWithPOP
 
 SPEC CHECKSUMS:
-  FastAnimationWithPOP: e8863fa37bf9ec724a2d66eff143edafb31fb0ba
+  FastAnimationWithPOP: 12a6225b468cdb671fb4ab897832566c322d91e0
   pop: 75fa2b33934200a8a68abb449ac1726fcf7e43b9
 
 COCOAPODS: 0.33.1
