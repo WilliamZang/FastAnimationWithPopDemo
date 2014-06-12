@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A0215063-9B2E-4AEF-9F00-ADE69CE39203</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FastAnimationWithPopDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>634DA2FF-8AE3-4C26-905B-C74B0B8F299E</key>
+		<string>ssh://github.com/WilliamZang/FastAnimationWithPopDemo.git</string>
+		<key>C9658CEF-A55D-49A7-B07E-8469BB9A0107</key>
+		<string>ssh://github.com/WilliamZang/FastAnimationWithPOP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FastAnimationWithPopDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>634DA2FF-8AE3-4C26-905B-C74B0B8F299E</key>
+		<string>..</string>
+		<key>C9658CEF-A55D-49A7-B07E-8469BB9A0107</key>
+		<string>../../FastAnimationWithPOP</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/WilliamZang/FastAnimationWithPopDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>634DA2FF-8AE3-4C26-905B-C74B0B8F299E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C9658CEF-A55D-49A7-B07E-8469BB9A0107</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FastAnimationWithPOP</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>634DA2FF-8AE3-4C26-905B-C74B0B8F299E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FastAnimationWithPopDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

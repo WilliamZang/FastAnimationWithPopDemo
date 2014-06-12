@@ -1,0 +1,17 @@
+PODS:
+  - FastAnimationWithPOP (0.0.1):
+    - pop (~> 1.0.5)
+  - pop (1.0.5)
+
+DEPENDENCIES:
+  - FastAnimationWithPOP (from `../FastAnimationWithPOP`)
+
+EXTERNAL SOURCES:
+  FastAnimationWithPOP:
+    :path: ../FastAnimationWithPOP
+
+SPEC CHECKSUMS:
+  FastAnimationWithPOP: e8863fa37bf9ec724a2d66eff143edafb31fb0ba
+  pop: 75fa2b33934200a8a68abb449ac1726fcf7e43b9
+
+COCOAPODS: 0.33.1

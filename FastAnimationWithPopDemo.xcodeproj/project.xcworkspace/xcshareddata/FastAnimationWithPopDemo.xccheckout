@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D2545F71-FC42-48F8-BE6D-F610FCE0BEFC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FastAnimationWithPopDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>634DA2FF-8AE3-4C26-905B-C74B0B8F299E</key>
+		<string>ssh://github.com/WilliamZang/FastAnimationWithPopDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FastAnimationWithPopDemo/FastAnimationWithPopDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>634DA2FF-8AE3-4C26-905B-C74B0B8F299E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/WilliamZang/FastAnimationWithPopDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>634DA2FF-8AE3-4C26-905B-C74B0B8F299E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>634DA2FF-8AE3-4C26-905B-C74B0B8F299E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FastAnimationWithPopDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
