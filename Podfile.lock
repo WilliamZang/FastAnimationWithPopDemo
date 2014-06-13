@@ -4,14 +4,10 @@ PODS:
   - pop (1.0.5)
 
 DEPENDENCIES:
-  - FastAnimationWithPOP (from `../FastAnimationWithPOP`)
-
-EXTERNAL SOURCES:
-  FastAnimationWithPOP:
-    :path: ../FastAnimationWithPOP
+  - FastAnimationWithPOP
 
 SPEC CHECKSUMS:
-  FastAnimationWithPOP: 12a6225b468cdb671fb4ab897832566c322d91e0
+  FastAnimationWithPOP: e2d37c13b740c054ba7c49616896d9d71115f0e0
   pop: 75fa2b33934200a8a68abb449ac1726fcf7e43b9
 
 COCOAPODS: 0.33.1
