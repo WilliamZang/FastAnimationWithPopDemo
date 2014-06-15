@@ -1,10 +1,10 @@
 PODS:
-  - FastAnimationWithPOP (0.0.1):
+  - FastAnimationWithPOP (HEAD based on 0.0.1):
     - pop (~> 1.0.5)
   - pop (1.0.5)
 
 DEPENDENCIES:
-  - FastAnimationWithPOP
+  - FastAnimationWithPOP (HEAD)
 
 SPEC CHECKSUMS:
   FastAnimationWithPOP: e2d37c13b740c054ba7c49616896d9d71115f0e0
